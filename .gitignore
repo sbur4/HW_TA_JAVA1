@@ -1,2 +1,2 @@
-.gitignore
-FiboNums/SimpleEvenOdd.java
+/.gitignore
+/FiboNums/SimpleEvenOdd.java
