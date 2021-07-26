@@ -1,2 +1,7 @@
 /.gitignore
-/FiboNums/SimpleEvenOdd.java
+config.txt
+
+FiboNums/SimpleEvenOdd.java
+
+target/
+test/
