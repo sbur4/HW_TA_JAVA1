@@ -3,6 +3,9 @@ config.txt
 test/
 FiboNums/SimpleEvenOdd.java
 
-target/
-/.settings
-/.project
+.target/
+.settings/
+.classpath
+.factorypath
+.project
+.vscode/
