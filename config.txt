@@ -1,0 +1,5 @@
+OpenJDK1.8
+VSCode
+maven / maven quickstart archetype 
+
+gir -> HW_TA_JAVA1
